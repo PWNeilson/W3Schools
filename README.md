@@ -14,3 +14,5 @@ PWN 2022/12/19 add 3rd new line to main W3Schools README.md file from within Git
 PWN 2022/12/19 add 4th new line to main W3Schools README.md file from within GitHub
 
 PWN 2022/12/19 add 5th new line to main W3Schools README.md file from using VI on local repository
+
+PWN 2022/12/23 add 6th new line to update-reame W3Schools README.md file using VI on local repository 
